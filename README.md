@@ -23,13 +23,6 @@
 
 https://ble.ir/ourtubebot
 
-
-## 🔑کد فعالسازی
-برای فعالسازی این پروژه شما نیاز به یک کد فعالسازی مخصوص این پروژه دارید. بعد از یکبار وارد کردن کد و فعال شدن بصورت دائمی فعال میشود. کد را از لینک زیر تهیه کنید:
-
-https://pay.avasam.ir/link/769604
-
-
 ## ⚙️ آموزش نصب 
 - ابتدا باید اکانت گیتهاب داشته باشید اگر ندارید از راهنمایی پایین همین صفحه استفاده کنید.
 - روی دکمه ی fork در بالای صفحه و سمت راست بزنید.
@@ -96,18 +89,6 @@ https://pay.avasam.ir/link/769604
 
 - شماره تماس : 09354887344
 - آیدی پشتیبانی در پیام رسان های ایرانی :‌ @ask_here
-- وب سایت : avasam.ir 
+- وب سایت : https://avasam.ir
 
-
-
-
-
-> [!WARNING]
-> **Important Notice for Users**
->
-> - This tool is intended to run **locally on your own machine** only
-> - **Do NOT commit downloaded videos** or any media files to this repository or your fork
-> - **Do NOT use GitHub Actions** to download and store videos on GitHub's infrastructure
-> - All video formats (`.mp4`, `.webm`, `.mkv`, etc.) are blocked via `.gitignore`
->
-> Misuse of this repository by storing media files or running mass downloads via GitHub Actions violates [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and may result in your account being suspended.
+- 
